@@ -95,8 +95,6 @@ void playback(unsigned char const *data, int stData, int lastData)
 {
   sounddata_data = data;
   sounddata_length = lastData - stData + 1;
-  //sounddata_length = length;
-
   
   
   // Set up Timer 2 to do pulse width modulation on the speaker
