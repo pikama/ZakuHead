@@ -1,4 +1,8 @@
 /*
+  This is a modified version of FlagPCM(https://github.com/codemee/FlagPCM) 
+*/
+
+/*
   This is a modified version of PCM library (https://github.com/damellis/PCM) to 
   make it compatible with Servo library. Originally,the PCM library uses Timer 1 
   to drive interruppted playback of PCM.But Servo library also uses Timer 1 to send 
@@ -124,7 +128,6 @@ void playback(unsigned char const *data, int stData, int lastData)
     if (sample >= sounddata_length) {
         // Disable the PWM timer.
         TCCR2B &= ~_BV(CS10);
-        //digitalWrite(speakerPin, LOW);
         break;
     }
     else {
