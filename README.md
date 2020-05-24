@@ -4,7 +4,7 @@
 
 Demo video will be uploded later 
 
-# Requirements
+### Requirements
 * Arduino nano
 * MRP121
 * 3mm/5mm led
@@ -17,3 +17,7 @@ Demo video will be uploded later
 * wire
 
 ![alt text](https://github.com/pikama/ZakuHead/blob/master/img/Requirements.png)
+
+
+### Wiring
+![alt text](https://github.com/pikama/ZakuHead/blob/master/img/circuit.png)
