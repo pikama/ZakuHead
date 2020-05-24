@@ -1,4 +1,13 @@
 /*
+  This is a modified version of FlagPCM(https://github.com/codemee/FlagPCM). In the 
+  FlagPCM version, You need to wait end of playback to do other thing. In this version, 
+  you can play PCM data by splitting and do breathing led simultaneously. The original 
+  version can be done this action, but you need to split the sound data first and noise 
+  problem was found.
+ */
+
+
+/*
   This is a modified version of PCM library (https://github.com/damellis/PCM) to 
   make it compatible with Servo library. Originally,the PCM library uses Timer 1 
   to drive interruppted playback of PCM.But Servo library also uses Timer 1 to send 
