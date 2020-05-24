@@ -5,7 +5,7 @@
   version can be done this action, but you need to split the sound data first and noise 
   problem was found.
   
-  How to use? find am example in (https://github.com/pikama/ZakuHead/blob/master/splitPCM/examples/breathLedWithPCM/breathLedWithPCM.ino)
+  How to use? find an example on (https://github.com/pikama/splitPCM)
 */
 
 /*
