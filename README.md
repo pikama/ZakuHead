@@ -2,7 +2,7 @@
 
     move splitPCM to C:\Users\username\Documents\Arduino\libraries
 
-Demo video will be uploded later 
+**Demo video will be uploaded soon**
 
 ### Requirements
 * Arduino nano
@@ -16,8 +16,8 @@ Demo video will be uploded later
 * Zaku head model
 * wire
 
-![alt text](https://github.com/pikama/ZakuHead/blob/master/img/Requirements.png)
+![alt text](https://raw.githubusercontent.com/pikama/ZakuHead/master/img/Requirements.png)
 
 
 ### Wiring
-![alt text](https://github.com/pikama/ZakuHead/blob/master/img/circuit.png)
+![alt text](https://raw.githubusercontent.com/pikama/ZakuHead/master/img/circuit.png)
