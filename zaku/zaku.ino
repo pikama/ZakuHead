@@ -472,9 +472,9 @@ void loop() {
             delay(1);
           }
           eyeLed.modifyEyeAlert(); //blinking led to let user know it's done
-        }      
-      }
-      eyeLed.setCurrBright(255); //set brightness of led to highest
+        }
+        eyeLed.setCurrBright(255); //set brightness of led to highest     
+      }     
       initState();
       break;
     case 4: //pin 4, for servo to go right
