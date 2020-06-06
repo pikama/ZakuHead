@@ -307,9 +307,9 @@ void setup() {
 void loop() {
   checkTouch(); //check and return state when touch
   
-  /*0 = on/off, 1 = keep moving and blinking, 2 = show mode(can edit by user), 
-    3 = blinking eye(can edit by user) , 
-    4 = move to right ,5 = move to left*/
+  /*0 = on/off, 1 = keep moving and breathing, 2 = show mode(can edit by user), 
+    3 = blinking eye(can edit by user), 
+    4 = move to right, 5 = move to left*/
   switch (inputState) {
     case 0: //pin 0, control of switch
       if (started) {
@@ -324,7 +324,7 @@ void loop() {
     case 1: //pin 1, nonstop
       if (started) {
         initState();
-        eyeLed.setUpdateInterval(15);
+        eyeLed.setUpdateInterval(MovingSpeed[2]);
         while (true) {
           eyeLed.BreathEye();
           eyeNormal.KeepMoving();
@@ -397,7 +397,7 @@ void loop() {
                   inputState = 100;
                 } else if (inputState == 1) { //pin 1 for enter
                   in = eyeNormal.getInterval();
-                  eyeNormal.setUpdateInterval(30);
+                  eyeNormal.setUpdateInterval(MovingSpeed[5]);
                   eyeNormal.setCurrPos(currrpos);
                   break;
                 }
