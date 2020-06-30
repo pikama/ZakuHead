@@ -17,8 +17,8 @@
 * Zaku head model
 * wire
 
-![alt text](https://raw.githubusercontent.com/pikama/ZakuHead/master/img/Requirements.png)
+![alt text](img/Requirements.png)
 
 
 ### Wiring
-![alt text](https://raw.githubusercontent.com/pikama/ZakuHead/master/img/circuit.png)
+![alt text](img/circuit.png)
