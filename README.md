@@ -1,8 +1,9 @@
 # ZakuHead
+### Demo
+[![Watch the video](https://raw.githubusercontent.com/pikama/ZakuHead/master/img/demo.png)](https://streamable.com/e/cv392d)
 
     move splitPCM to C:\Users\username\Documents\Arduino\libraries
 
-**Demo video will be uploaded soon**
 
 ### Requirements
 * Arduino nano
