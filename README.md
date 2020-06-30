@@ -1,6 +1,4 @@
 # ZakuHead
-### Demo
-[![Watch the video](https://raw.githubusercontent.com/pikama/ZakuHead/master/img/demo.png)](https://streamable.com/e/cv392d)
 
     move splitPCM to C:\Users\username\Documents\Arduino\libraries
 
@@ -22,3 +20,6 @@
 
 ### Wiring
 ![alt text](img/circuit.png)
+
+### Demo
+[![Watch the video](img/demo.png)](https://streamable.com/e/cv392d)
