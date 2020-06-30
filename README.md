@@ -15,7 +15,7 @@
 * Zaku head model
 * wire
 
-![alt text](img/Requirements.png)
+![alt text](img/requirements.png)
 
 
 ### Wiring
@@ -23,3 +23,6 @@
 
 ### Demo
 [![Watch the video](img/demo.png)](https://streamable.com/e/cv392d)
+
+### Testing Video
+[![Watch the video](img/testing.png)](https://streamable.com/e/43nuhi)
