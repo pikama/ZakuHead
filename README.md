@@ -22,7 +22,7 @@
 ![alt text](img/circuit.png)
 
 ### Demo
-[![Watch the video](img/demo.png)](https://streamable.com/e/cv392d)
+[![Watch the video](img/demo.png)](https://youtu.be/xnuFLA4PfUc)
 
 ### Testing Video
-[![Watch the video](img/testing.png)](https://streamable.com/e/43nuhi)
+[![Watch the video](img/testing.png)](https://youtu.be/wzrBAxhfy54)
